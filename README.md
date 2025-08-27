@@ -15,7 +15,15 @@ Este é o backend do projeto **Just Dreams**, desenvolvido como parte de um trab
 
 📁 Estrutura do projeto
 
-just-dreams-api/ ├── config/ │ └── db.js ├── routes/ │ ├── aluno.js │ └── turma.js ├── server.js ├── package.json
+just-dreams-api/ 
+├── config/ 
+│   └── db.js
+├── routes/ 
+│ ├── aluno.js 
+│ └── turma.js 
+├── server.js 
+├── package.json
+└── README.md  
 
 ⚙️ Como rodar localmente
 
