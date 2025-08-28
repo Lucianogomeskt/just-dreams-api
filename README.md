@@ -8,7 +8,6 @@ Este é o backend do projeto **Just Dreams**, desenvolvido como parte de um trab
 
 - Node.js
 - Express
-- MySQL
 - MySQL2
 - Nodemon
 - CORS
