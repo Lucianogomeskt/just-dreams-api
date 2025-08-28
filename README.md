@@ -91,4 +91,6 @@ Autor
 Desenvolvido por Luciano Gomes Projeto acadêmico — Backend para sistema de gerenciamento de alunos e turmas.
 
 📌 Status do projeto
-✅ Funcional 🔧 Em desenvolvimento contínuo 📦 Pronto para testes e integração com frontend
+✅ Funcional 
+🔧 Em desenvolvimento contínuo 
+📦 Pronto para testes e integração com frontend
